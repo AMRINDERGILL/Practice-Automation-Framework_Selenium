@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import base.BaseTest;
 
 public class ChromeLaunch extends BaseTest {
-
+//launch chrome
 	@Test
 	public void startChrome()
 	{
