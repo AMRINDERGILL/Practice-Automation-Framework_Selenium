@@ -9,6 +9,7 @@ public class Chrome extends BaseTest {
 	@Test
 	public void chromeLaunch()
 	{
+		//launching chrome
 		driver.get("www.google.com");
 	}
 }
